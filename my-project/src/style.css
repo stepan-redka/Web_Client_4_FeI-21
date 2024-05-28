@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.router-link-active{
+  background-color: #5d0f7c;
+  color:white
+}
+
+.font-lato{
+  font-family: "Lato", sans-serif;
+}
+.rounded-bottom-custom {
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
